@@ -64,9 +64,7 @@ This plugin is licensed under the **GNU General Public License, Version 2 or lat
 
 ## Source Code and Issue Tracker
 
-*   **Code Repository:** [https://github.com/yourusername/Geoservico_Catalogo_Insumos_PA](https://github.com/yourusername/Geoservico_Catalogo_Insumos_PA)
-*   **Issue Tracker:** [https://github.com/yourusername/Geoservico_Catalogo_Insumos_PA/issues](https://github.com/yourusername/Geoservico_Catalogo_Insumos_PA/issues)
-*   **Homepage:** [https://landscapearchaeology.org/2018/installing-python-packages-in-qgis-3-for-windows/](https://landscapearchaeology.org/2018/installing-python-packages-in-qgis-3-for-windows/) (Placeholder for dependency guide)
+*   **Code Repository:** [https://github.com/geoservico/Geoservico_Catalogo_Insumos_PA](https://github.com/geoservico/Geoservico_Catalogo_Insumos_PA)
+*   **Issue Tracker:** [https://github.com/geoservico/Geoservico_Catalogo_Insumos_PA/issues](https://github.com/geoservico/Geoservico_Catalogo_Insumos_PA/issues)
+*   **Homepage:** [http://geoservico.ddns.net:2025/](http://geoservico.ddns.net:2025/) 
 
-***
-**Note:** Please replace `https://github.com/yourusername/Geoservico_Catalogo_Insumos_PA` with the actual repository URL before publication. The homepage link is a placeholder example provided in the requirements for external dependency installation guides.
