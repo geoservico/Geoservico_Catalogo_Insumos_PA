@@ -1,0 +1,20 @@
+[general]
+name=Geoservico_Catalogo_Insumos_PA
+description=Access to the Subscription Input Catalog service for Geoserviço - Geotecnologia & Meio.
+version=1.4
+qgisMinimumVersion=3.40
+author=Roberta Letícia
+email=assinatura.geoservico@gmail.com
+about=This plugin provides access to the Subscription Input Catalog service for Geoserviço - Geotecnologia & Meio. It allows users to authenticate and load WMS layers directly into QGIS. Note: Requires 'requests' library.
+category=Web
+repository=https://github.com/geoservico/Geoservico_Catalogo_Insumos_PA
+homepage=https://github.com/geoservico/Geoservico_Catalogo_Insumos_PA
+tracker=https://github.com/geoservico/Geoservico_Catalogo_Insumos_PA/issues
+icon=icon.png
+tags=wms, catalog, geoservico, subscription
+experimental=False
+deprecated=False
+license=GPL version 2 or later
+license_file=LICENSE
+server=False
+external_dependencies=requests
